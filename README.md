@@ -1,2 +1,2 @@
 # PalindroneCheckerApp
-//Use Case 1 added successfully
+//Use Case 2 added successfully
